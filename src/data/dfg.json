@@ -1,0 +1,225 @@
+[
+    {
+        "value": 1, 
+        "key": ["3G CANNOT ACCESS INTERNET", "NETWORK-POOR QUALITY"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["AIRTIME PURCHASE REVERSAL", "AIRTIME PURCHASE REVERSAL"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["ATM EQUITY _TOKEN  NON RECU", "ATM EQUITY _TOKEN  NON RECU"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["ATM EQUITY_ TOKEN RECU _COMPTE DEBITE_NE PEUT RETIRER ", "ATM EQUITY _TOKEN  NON RECU"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["ATM RAW BANK_ TOKEN RECU _COMPTE DEBITE_NE PEUT RETIRER", "ATM EQUITY_ TOKEN RECU _COMPTE DEBITE_NE PEUT RETIRER "]
+    }, 
+    {
+        "value": 2, 
+        "key": ["CANNOT  PURCHASE VODA-E THROUGH MPESA", "CANNOT  PURCHASE VODA-E THROUGH MPESA"]
+    }, 
+    {
+        "value": 14, 
+        "key": ["CANNOT ACCESS TO PURCHASED BUNDLEDATA", "CANNOT ACCESS TO PURCHASED BUNDLEDATA"]
+    }, 
+    {
+        "value": 21, 
+        "key": ["CANNOT ACCESS TO PURCHASED BUNDLESMS", "CANNOT ACCESS TO PURCHASED BUNDLESMS"]
+    }, 
+    {
+        "value": 4, 
+        "key": ["CUSTOMER ACCOUNT SUSPENDED", "CUSTOMER ACCOUNT SUSPENDED"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["FAILED BUNDLE ACTIVATION DATA", "FAILED BUNDLE ACTIVATION DATA"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["FAILED BUNDLE ACTIVATION DATA", "RECHARGE-PROMOTIONAL REFILL BONUSES"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["MOJA BET NO PAYMENT RECEIVED", "MOJA BET NO PAYMENT RECEIVED"]
+    }, 
+    {
+        "value": 7, 
+        "key": ["MPESA  AGENT COMMISSION NOT RECEIVED", "MPESA  AGENT COMMISSION NOT RECEIVED"]
+    }, 
+    {
+        "value": 2, 
+        "key": ["MPESA AGENT UNSUSPENSION REQUEST", "MPESA AGENT UNSUSPENSION REQUEST"]
+    }, 
+    {
+        "value": 6, 
+        "key": ["MPESA QUERIES   DATA  BUNDLE PURCHASED  FAILED", "MPESA QUERIES   DATA  BUNDLE PURCHASED  FAILED"]
+    }, 
+    {
+        "value": 4, 
+        "key": ["MPESA QUERIES   SMS  BUNDLE PURCHASED  FAILED", "MPESA QUERIES   SMS  BUNDLE PURCHASED  FAILED"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["MPESA QUERIES   VOICE   BUNDLE PURCHASED  FAILED", "MPESA QUERIES   DATA  BUNDLE PURCHASED  FAILED"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["MPESA QUERIES   VOICE   BUNDLE PURCHASED  FAILED", "VDC INFO  DIVERTISSEMENT CANNOT SUBSCRIBE"]
+    }, 
+    {
+        "value": 2, 
+        "key": ["MPESA TRANSFER MONEY TO  BANK  ACCOUNT", "MPESA TRANSFER MONEY TO  BANK  ACCOUNT"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["MPESA TRANSFER MONEY TO  BANK  ACCOUNT", "P2P MPESA DEBITED ORANGE  NUMBERNOT RECEIVE MONEY"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["NETWORK-POOR QUALITY", "3G CANNOT ACCESS INTERNET"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["NO DEPOSIT NOTIFICATION RECEIVED", "NO DEPOSIT NOTIFICATION RECEIVED"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["NO WITHDRAW NOTIFICATION RECEIVED", "NO WITHDRAW NOTIFICATION RECEIVED"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["ONE4ALL BPARTY NOT CREDITED", "ONE4ALL BPARTY NOT CREDITED"]
+    }, 
+    {
+        "value": 3, 
+        "key": ["ONE4ALL ECHEC TRANSACTION BILLED", "ONE4ALL ECHEC TRANSACTION BILLED"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["P2P MPESA DEBITED ORANGE  NUMBERNOT RECEIVE MONEY", "MPESA P2P ORANGE MONEY CANNOT SEND"]
+    }, 
+    {
+        "value": 3, 
+        "key": ["P2P MPESA DEBITED ORANGE  NUMBERNOT RECEIVE MONEY", "P2P MPESA DEBITED ORANGE  NUMBERNOT RECEIVE MONEY"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["PARIS JEUX DU HASARD ACTIVATION REQUEST", "PARIS JEUX DU HASARD ACTIVATION REQUEST"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["PREPAID-ACCOUNT INACCESSIBLE", "PREPAID-ACCOUNT INACCESSIBLE"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["PREPAID-STATUS_NUMBER CHURNED", "FAILED BUNDLE ACTIVATION DATA"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["PREPAID-STATUS_NUMBER CHURNED", "PREPAID-AIRTIME LOSS CLAIM"]
+    }, 
+    {
+        "value": 32, 
+        "key": ["RECHARGE-PROMOTIONAL REFILL BONUSES", "RECHARGE-PROMOTIONAL REFILL BONUSES"]
+    }, 
+    {
+        "value": 6, 
+        "key": ["RECOVERY   MONEY   FORMER  ACCOUNT", "RECOVERY   MONEY   FORMER  ACCOUNT"]}, 
+    {
+        "value": 9, 
+        "key": ["REVERSAL  P2A", "REVERSAL  P2A"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["REVERSAL A2A", "MPESA  AGENT COMMISSION NOT RECEIVED"]
+    }, 
+    {
+        "value": 3, 
+        "key": ["REVERSAL A2A", "REVERSAL A2A"]}, {"value": 1, "key": ["REVERSAL A2P", "NO DEPOSIT NOTIFICATION RECEIVED"]
+    }, 
+    {
+        "value": 2, 
+        "key": ["REVERSAL A2P", "REVERSAL A2P"]
+    }, 
+    {
+        "value": 3, 
+        "key": ["SERVICE NOT ACTIVATED", "SERVICE NOT ACTIVATED"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["SERVICE NOT ACTIVATED- CANALSAT", "P2P MPESA DEBITED ORANGE  NUMBERNOT RECEIVE MONEY"]
+    }, 
+    {
+        "value": 8, 
+        "key": ["SERVICE NOT ACTIVATED- CANALSAT", "SERVICE NOT ACTIVATED- CANALSAT"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["SIM SWAP-SIM ACTIVATION", "PREPAID-STATUS_NUMBER CHURNED"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["UNLOCK  REQUEST  SIMBOX", "CANNOT ACCESS TO ACTIVATED BUNDLEVOICE"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["UNLOCK  REQUEST  SIMBOX", "SIMBOX OUTPAYEMENT"]
+    }, 
+    {
+        "value": 6, 
+        "key": ["UNLOCK  REQUEST  SIMBOX", "UNLOCK  REQUEST  SIMBOX"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["VDC INFO  DIVERTISSEMENT CANNOT SUBSCRIBE", "VDC INFO  DIVERTISSEMENT CANNOT SUBSCRIBE"]
+    }, 
+    {
+        "value": 2, 
+        "key": ["VODA-E REQUEST OF MIGRATION TO PREPAID", "VODA-E REQUEST OF MIGRATION TO PREPAID"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["VODA-E-CANNOT  TRANSFER TO ANOTHER  PPFE ACCOUNT", "VODA-E-CANNOT  TRANSFER TO ANOTHER  PPFE ACCOUNT"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["VODA-E-CANNOT TRANSFER CREDIT TO IN ACCOUNT", "VODA-E-CANNOT TRANSFER CREDIT TO IN ACCOUNT"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["VODA-E-ENQUIRIES", "NETWORK-NO SIGNAL"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["VODA-E-ENQUIRIES", "VODA-E-ENQUIRIES"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["VODA-E-FAILURE FEEDBACK AFTER IN RECHARGE", "VODA-E-FAILURE FEEDBACK AFTER IN RECHARGE"]
+    }, 
+    {
+        "value": 6, 
+        "key": ["VODA-E-WRONG ALLOCATION TO PPFE ACCOUNT", "VODA-E-WRONG ALLOCATION TO PPFE ACCOUNT"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["VODANET RENEWAL PREPAID", "VODANET RENEWAL PREPAID"]
+    }, 
+    {
+        "value": 2, 
+        "key": ["WINNER PAYMENT NO BAR CODE", "WINNER PAYMENT NO BAR CODE"]
+    }, 
+    {
+        "value": 1, 
+        "key": ["WRONG  ALLOCATED  BUNDLE", "CANNOT ACCESS TO PURCHASED BUNDLEDATA"]
+    }, 
+    {
+        "value": 2, 
+        "key": ["WRONG  ALLOCATED  BUNDLE", "WRONG  ALLOCATED  BUNDLE"]
+    }
+]

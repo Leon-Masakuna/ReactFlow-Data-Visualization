@@ -2,37 +2,20 @@ import React from 'react';
 import { useState, useCallback } from 'react';
 import ReactFlow, { applyEdgeChanges, applyNodeChanges, Background, Controls, addEdge } from 'reactflow';
 import 'reactflow/dist/style.css';
-import data from "../data/startActivities"
+import startActivities from "../data/start_activities.json"
 
-const initialEdges = [
-    {
-        id: '1-2',
-        source: '1',
-        target: '2',
-        label: data[0].value,
-        type: 'step',
-    }
-]
+const initialEdges = []
 
-const initialNodes = [
-    {
-        id: "1",
+const initialNodes = Object.keys(startActivities).map((key, index) => {
+    return {
+        id: `${index}`,
         position: {
-            x: 0, 
-            y:0
+            x: index * 10 * Math.floor(Math.random() * 5),
+            y: startActivities[key] * 10 * Math.floor(Math.random() * 5),
         },
-        data: { label : data[0].from },
-        type: 'input',
-    },
-    {
-        id: '2',
-        position: { 
-            x: 100, 
-            y: 100 
-        },
-        data: { label: data[0].to },
-    }
-];
+        data: {label : key},
+    };
+});
 
 const Flow = () => {
     const [nodes, setNodes] = useState(initialNodes);
