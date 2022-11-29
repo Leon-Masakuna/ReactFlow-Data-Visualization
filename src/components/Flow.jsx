@@ -2,7 +2,7 @@ import React from 'react';
 import { useState, useCallback } from 'react';
 import ReactFlow, { applyEdgeChanges, applyNodeChanges, Background, Controls, addEdge } from 'reactflow';
 import 'reactflow/dist/style.css';
-import endActivities from "../data/start_activities.json"
+import endActivities from "../data/end_activities.json"
 
 const endNode =
     {
